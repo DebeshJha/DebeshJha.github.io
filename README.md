@@ -18,8 +18,8 @@
         </ul>
     </nav>
 
-    <section id="about">
+    <header>
         <h2>About Me</h2>
         <p>My primary research focuses on developing AI algorithms for medical imaging, covering upper and lower GI tract, lung and liver tumors, and predictive modeling for radiation therapy. I also investigate organ-at-risk assessment and dose prediction to elevate the accuracy and effectiveness of radiation therapy. In the past, I have developed algorithms for colonoscopy/endoscopy. One of our recent algorithms, ColonSegNet and data, Kvasir-SEG, has been adopted by NVIDIA Clara. I am highly optimistic about the potential of AI tools to function as an additional diagnostic support for radiologists, enabling enhanced healthcare quality and informed decision-making.</p>
-    </section>
+      </header>
 
