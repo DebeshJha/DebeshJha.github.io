@@ -61,6 +61,9 @@
     </style>
 </head>
 <body>
+
+    <img src="images/Debesh.jpg" alt="Debesh Jha" style="max-width: 100%; height: auto;">
+
     <header>
         <h1>Debesh Jha</h1>
         <p>Artificial Intelligence Scientist | Educator | Innovator</p>
