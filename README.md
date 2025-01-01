@@ -1,7 +1,6 @@
 
 <body>
     <header>
-        <h1>Debesh Jha</h1>
         <p>Senior Research Associate, Department of Radiology, Northwestern University</p>
     </header>
     <nav>
