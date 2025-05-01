@@ -38,8 +38,8 @@ header p {
 }
 
 .profile-img {
-  width: 120px; /* slightly larger for visibility */
-  height: 120px;
+  width: 200px; /* slightly larger for visibility */
+  height: 200px;
   object-fit: cover;
   border-radius: 50%; /* perfect circle */
   border: 2px solid #ffffff;
