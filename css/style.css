@@ -38,13 +38,19 @@ header p {
 }
 
 .profile-img {
-  width: 100px;
-  height: 100px;
+  width: 120px; /* slightly larger for visibility */
+  height: 120px;
   object-fit: cover;
-  border-radius: 50%;
-  border: 3px solid #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
+  border-radius: 50%; /* perfect circle */
+  border: 2px solid #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: inline-block;
+  image-rendering: auto; /* ensures smooth rendering */
+}
+.profile-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
 }
 
 .profile-img:hover {
